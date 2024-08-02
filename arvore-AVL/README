@@ -1,0 +1,8 @@
+Autores: Daniel Celestino de lins Neto e Matheus Moraes Piovesan
+
+Essa implementação da árvore AVL não tem nada de muito especial, tendo funções para inserção, remoção, busca e balanceamento. 
+As particularidades dela são a inclusão de uma variavel "balanceamento" dentro da struct nodo, e a escolha
+de fazer a raiz da main receber uma árvore "nova" toda vez que uma alteração é feita, ao invés de passar o endereço.
+Ademais, existem alguns comentários na "avl-tree.h" que explicam o que cada função faz.
+
+Digite i parar inserir, b para buscar e r para remover.

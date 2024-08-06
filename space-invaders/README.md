@@ -1,4 +1,5 @@
 ## Rode com:
-```shell
+
+``` shell
 make && ./game
 ```
